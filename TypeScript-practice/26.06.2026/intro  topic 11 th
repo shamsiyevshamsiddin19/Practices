@@ -1,0 +1,34 @@
+let mashiqlar: string[] = ["js","postgresql","rus tili"];
+let vaqti: number[ ] = [1,2,3]
+
+let men: [string,number] = ["shamsiddin",19]
+
+
+let user: {ism: "shamsiddin", yosh:19}
+
+let family: {dadam:"Meriddin", onam: "Roxatoy"}
+
+// TS Object Types
+
+    let mahsulot: {readonly id: number; nom: string; narx: number; chegirma?: number};
+
+// enum
+
+enum Rollar{
+    Admin = "ADMIN",
+    Sotuvchi = "SOTUVCHI",
+    Xaridor = "XARIDOR"
+}
+let meningrolim = Rollar.Sotuvchi;
+
+// TS Aliases & Interfaces
+
+interface kitob{
+    nomi: string,
+    sahifasi: number,
+}
+
+let meningkitobim: kitob={
+    nomi: "atom odatlar",
+    sahifasi:250
+}

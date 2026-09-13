@@ -1,0 +1,22 @@
+1 - Dars. Pythonga kirish (o'zgaruvchilar)
+2 - Dars. Arifmetik amallar | ma'lumotlar turlari
+3 - Dars. If-else
+4 - Dars. If-elif-else practice
+5 - Dars. Lists
+6 - Dars. For loops & Tuples
+7 - Dars. While loop & break/continue
+8 - Dars. Dictionaries
+9 - Dars. Funksiyalar
+10 - Dars. String manipulation
+11 - Dars. Ternary operator
+12 - Dars. List comprehensions
+13 - Dars. Dictionary comprehensions
+14 - Dars. Sets
+15 - Dars. Error handling
+16 - Dars. File handling
+17 - Dars. Modules & Packages
+18 - Dars. OOP
+19 - Dars. OOP (getter, setter, deleter)
+20 - Dars. OOP (dunder methods)
+21 - Dars. OOP (inheritance)
+22 - Dars. OOP (Polymorphism & Abstraction)
